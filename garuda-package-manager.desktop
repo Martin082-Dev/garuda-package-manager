@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Garuda Package Manager
+Exec=garuda-package-manager
+Icon=system-software-update
+Terminal=false
+Categories=System;PackageManager;
